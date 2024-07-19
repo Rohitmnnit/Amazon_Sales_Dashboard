@@ -42,6 +42,7 @@ Type: Pie Chart
 Description: Compares the total revenue from online and offline sales channels.
 
 6. Order Priority Analysis
+
 Type: Bar Chart
 
 Description: Analyzes the total revenue based on order priority (High, Medium, Low, Critical).
