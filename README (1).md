@@ -30,11 +30,13 @@ Type: Donut Chart
 Description: Illustrates the distribution of total revenue across different regions.
 
 4. Product Sales Distribution
+
 Type: Pie Chart
 
 Description: Visualizes the sales distribution of different product types in terms of units sold.
 
 5. Sales Channel Performance
+
 Type: Pie Chart
 
 Description: Compares the total revenue from online and offline sales channels.
@@ -107,6 +109,7 @@ Drag Total Revenue to the Values field well.
 Select the Bar Chart from the Visualizations pane.
 
 4. Customize the Dashboard
+   
 Add titles, format data labels, and adjust the visuals to fit the dashboard design.
 
 Use the Format pane to customize the appearance of each visual.
